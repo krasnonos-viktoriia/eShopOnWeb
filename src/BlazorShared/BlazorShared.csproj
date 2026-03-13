@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BlazorShared</RootNamespace>
+    <AssemblyName>BlazorShared</AssemblyName>
+  </PropertyGroup>
+
+  <!-- Оголошення версій пакетів -->
+  <ItemGroup>
+    <PackageVersion Include="BlazorInputFile" Version="0.2.0" />
+    <PackageVersion Include="FluentValidation" Version="11.9.0" />
+  </ItemGroup>
+
+  <!-- Посилання на пакети (без версій) -->
+  <ItemGroup>
+    <PackageReference Include="BlazorInputFile" />
+    <PackageReference Include="FluentValidation" />
+  </ItemGroup>
+
+</Project>

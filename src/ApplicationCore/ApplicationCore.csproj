@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Microsoft.eShopWeb.ApplicationCore</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <!-- Оголошення версій пакетів -->
+  <ItemGroup>
+    <PackageVersion Include="Ardalis.GuardClauses" Version="4.0.1" />
+    <PackageVersion Include="Ardalis.Result" Version="7.0.0" />
+    <PackageVersion Include="Ardalis.Specification" Version="7.0.0" />
+    <PackageVersion Include="System.Security.Claims" Version="4.3.0" />
+    <!-- System.Text.Json не потребує версії, він вбудований у .NET 8 -->
+  </ItemGroup>
+
+  <!-- Посилання на пакети (без версій) -->
+  <ItemGroup>
+    <PackageReference Include="Ardalis.GuardClauses" />
+    <PackageReference Include="Ardalis.Result" />
+    <PackageReference Include="Ardalis.Specification" />
+    <PackageReference Include="System.Security.Claims" />
+    <PackageReference Include="System.Text.Json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorShared\BlazorShared.csproj" />
+  </ItemGroup>
+
+</Project>
