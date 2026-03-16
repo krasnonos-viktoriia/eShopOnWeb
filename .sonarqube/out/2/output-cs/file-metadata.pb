@@ -1,0 +1,23 @@
+Z
+OD:\eShopOnWeb-main\src\BlazorAdmin\obj\Debug\net8.0\BlazorAdmin.AssemblyInfo.csutf-8m
+bD:\eShopOnWeb-main\src\BlazorAdmin\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8G
+>D:\eShopOnWeb-main\src\BlazorAdmin\Shared\CustomInputSelect.csutf-8D
+;D:\eShopOnWeb-main\src\BlazorAdmin\Services\ToastService.csutf-8C
+:D:\eShopOnWeb-main\src\BlazorAdmin\Services\HttpService.csutf-8P
+GD:\eShopOnWeb-main\src\BlazorAdmin\Services\CatalogLookupDataService.csutf-8J
+AD:\eShopOnWeb-main\src\BlazorAdmin\Services\CatalogItemService.csutf-8B
+9D:\eShopOnWeb-main\src\BlazorAdmin\Services\CacheEntry.csutf-8`
+WD:\eShopOnWeb-main\src\BlazorAdmin\Services\CachedCatalogLookupDataServiceDecorator .csutf-8Y
+PD:\eShopOnWeb-main\src\BlazorAdmin\Services\CachedCatalogItemServiceDecorator.csutf-8D
+;D:\eShopOnWeb-main\src\BlazorAdmin\ServicesConfiguration.csutf-86
+-D:\eShopOnWeb-main\src\BlazorAdmin\Program.csutf-8O
+FD:\eShopOnWeb-main\src\BlazorAdmin\Pages\CatalogItemPage\List.razor.csutf-8?
+6D:\eShopOnWeb-main\src\BlazorAdmin\JavaScript\Route.csutf-8L
+CD:\eShopOnWeb-main\src\BlazorAdmin\JavaScript\JSInteropConstants.csutf-8=
+4D:\eShopOnWeb-main\src\BlazorAdmin\JavaScript\Css.csutf-8A
+8D:\eShopOnWeb-main\src\BlazorAdmin\JavaScript\Cookies.csutf-8E
+<D:\eShopOnWeb-main\src\BlazorAdmin\Helpers\ToastComponent.csutf-8G
+>D:\eShopOnWeb-main\src\BlazorAdmin\Helpers\RefreshBroadcast.csutf-8L
+CD:\eShopOnWeb-main\src\BlazorAdmin\Helpers\BlazorLayoutComponent.csutf-8F
+=D:\eShopOnWeb-main\src\BlazorAdmin\Helpers\BlazorComponent.csutf-8F
+=D:\eShopOnWeb-main\src\BlazorAdmin\CustomAuthStateProvider.csutf-8

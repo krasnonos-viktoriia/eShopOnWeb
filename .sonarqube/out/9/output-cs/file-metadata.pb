@@ -1,0 +1,12 @@
+x
+mD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\obj\Debug\net8.0\PublicApiIntegrationTests.AssemblyInfo.csutf-8}
+rD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8z
+oD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\obj\Debug\net8.0\PublicApiIntegrationTests.GlobalUsings.g.csutf-8|
+qC:\Users\User\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8J
+AD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\ProgramTest.csutf-8q
+hD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\DeleteCatalogItemEndpointTest.csutf-8q
+hD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CreateCatalogItemEndpointTest.csutf-8p
+gD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CatalogItemListPagedEndpoint.csutf-8r
+iD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CatalogItemGetByIdEndpointTest.csutf-8e
+\D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\AuthEndpoints\AuthenticateEndpointTest.csutf-8M
+DD:\eShopOnWeb-main\tests\PublicApiIntegrationTests\ApiTokenHelper.csutf-8

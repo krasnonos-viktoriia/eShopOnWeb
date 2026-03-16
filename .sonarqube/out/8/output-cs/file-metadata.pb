@@ -1,0 +1,17 @@
+f
+[D:\eShopOnWeb-main\tests\FunctionalTests\obj\Debug\net8.0\FunctionalTests.GlobalUsings.g.csutf-8d
+YD:\eShopOnWeb-main\tests\FunctionalTests\obj\Debug\net8.0\FunctionalTests.AssemblyInfo.csutf-8s
+hD:\eShopOnWeb-main\tests\FunctionalTests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8|
+qC:\Users\User\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8G
+>D:\eShopOnWeb-main\tests\FunctionalTests\Web\WebTestFixture.csutf-8G
+>D:\eShopOnWeb-main\tests\FunctionalTests\Web\WebPageHelpers.csutf-8L
+CD:\eShopOnWeb-main\tests\FunctionalTests\Web\Pages\HomePageOnGet.csutf-8O
+FD:\eShopOnWeb-main\tests\FunctionalTests\Web\Pages\Basket\IndexTest.csutf-8R
+ID:\eShopOnWeb-main\tests\FunctionalTests\Web\Pages\Basket\CheckoutTest.csutf-8X
+OD:\eShopOnWeb-main\tests\FunctionalTests\Web\Pages\Basket\BasketPageCheckout.csutf-8Y
+PD:\eShopOnWeb-main\tests\FunctionalTests\Web\Controllers\OrderControllerIndex.csutf-8[
+RD:\eShopOnWeb-main\tests\FunctionalTests\Web\Controllers\CatalogControllerIndex.csutf-8a
+XD:\eShopOnWeb-main\tests\FunctionalTests\PublicApi\AuthEndpoints\AuthenticateEndpoint.csutf-8\
+SD:\eShopOnWeb-main\tests\FunctionalTests\Web\Controllers\AccountControllerSignIn.csutf-8M
+DD:\eShopOnWeb-main\tests\FunctionalTests\PublicApi\ApiTokenHelper.csutf-8M
+DD:\eShopOnWeb-main\tests\FunctionalTests\PublicApi\ApiTestFixture.csutf-8

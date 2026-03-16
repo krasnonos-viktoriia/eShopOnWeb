@@ -1,0 +1,14 @@
+﻿D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\ApiTokenHelper.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\AuthEndpoints\AuthenticateEndpointTest.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CatalogItemGetByIdEndpointTest.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CatalogItemListPagedEndpoint.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\CreateCatalogItemEndpointTest.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\CatalogItemEndpoints\DeleteCatalogItemEndpointTest.cs
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\ProgramTest.cs
+C:\Users\User\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\User\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\User\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.dll
+D:\eShopOnWeb-main\tests\PublicApiIntegrationTests\appsettings.test.json
+C:\Users\User\.nuget\packages\mstest.testadapter\3.2.2\build\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\.nuget\packages\mstest.testadapter\3.2.2\build\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\.nuget\packages\mstest.testadapter\3.2.2\build\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll

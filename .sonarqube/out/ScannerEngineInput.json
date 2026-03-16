@@ -1,0 +1,480 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1773686716000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "-2"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "D:\\eShopOnWeb-main"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "1FCBE191-34FE-4B2E-8915-CA81553958AD,715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9,0F576306-7E2D-49B7-87B1-EB5D94CFD5FC,71368733-80A4-4869-B215-3A7001878577,7FED7440-2311-4D1E-958B-3E887C585CD2,7C461394-ABDC-43CD-A798-71249C58BA67,B5E4F33C-4667-4A55-AF6A-740F84C4CF3A,227CF035-29B0-448D-97E4-944F9EA850E5,EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6,7EFB5482-F942-4C3D-94B0-9B70596E6D0A,D53EF010-8F8C-4337-A059-456E19D8AE63"
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.projectKey",
+      "value": "-2:1FCBE191-34FE-4B2E-8915-CA81553958AD"
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.projectName",
+      "value": "docker-compose"
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main"
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "1FCBE191-34FE-4B2E-8915-CA81553958AD.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\docker-compose.override.yml,D:\\eShopOnWeb-main\\docker-compose.yml,D:\\eShopOnWeb-main\\.dockerignore,D:\\eShopOnWeb-main\\.devcontainer\\devcontainer.json,D:\\eShopOnWeb-main\\.github\\dependabot.yml,D:\\eShopOnWeb-main\\.vscode\\extensions.json,D:\\eShopOnWeb-main\\.vscode\\launch.json,D:\\eShopOnWeb-main\\.vscode\\tasks.json,D:\\eShopOnWeb-main\\infra\\abbreviations.json,D:\\eShopOnWeb-main\\infra\\main.bicep,D:\\eShopOnWeb-main\\infra\\main.parameters.json,D:\\eShopOnWeb-main\\.github\\workflows\\dotnetcore.yml,D:\\eShopOnWeb-main\\.github\\workflows\\richnav.yml,D:\\eShopOnWeb-main\\obj\\Docker\\ContainerToolsExceptions.json,D:\\eShopOnWeb-main\\obj\\Docker\\PrerequisiteFailureTelemetry.json,D:\\eShopOnWeb-main\\.vs\\eShopOnWeb\\config\\applicationhost.config,D:\\eShopOnWeb-main\\.vs\\eShopOnWeb\\v17\\DocumentLayout.backup.json,D:\\eShopOnWeb-main\\.vs\\eShopOnWeb\\v17\\DocumentLayout.json,D:\\eShopOnWeb-main\\.vs\\Everything\\v17\\DocumentLayout.json,D:\\eShopOnWeb-main\\infra\\core\\host\\appservice.bicep,D:\\eShopOnWeb-main\\infra\\core\\host\\appserviceplan.bicep,D:\\eShopOnWeb-main\\infra\\core\\security\\keyvault-access.bicep,D:\\eShopOnWeb-main\\infra\\core\\security\\keyvault.bicep,D:\\eShopOnWeb-main\\infra\\core\\database\\sqlserver\\sqlserver.bicep,D:\\eShopOnWeb-main\\azure.yaml,D:\\eShopOnWeb-main\\global.json,D:\\eShopOnWeb-main\\NuGet.config"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.projectKey",
+      "value": "-2:715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.projectName",
+      "value": "BlazorShared"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\BlazorShared"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\BlazorShared\\obj\\BlazorShared.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\BlazorShared\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\BlazorShared\\bin\\Debug\\net8.0\\BlazorShared.deps.json,D:\\eShopOnWeb-main\\src\\BlazorShared\\obj\\Debug\\net8.0\\BlazorShared.sourcelink.json,D:\\eShopOnWeb-main\\src\\BlazorShared\\Attributes\\EndpointAttribute.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Authorization\\ClaimValue.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Authorization\\Constants.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Authorization\\UserInfo.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\BaseUrlConfiguration.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Interfaces\\ICatalogItemService.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Interfaces\\ICatalogLookupDataService.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Interfaces\\ILookupDataResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CatalogBrand.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CatalogBrandResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CatalogItem.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CatalogType.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CatalogTypeResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CreateCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\CreateCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\DeleteCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\EditCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\ErrorDetails.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\LookupData.cs,D:\\eShopOnWeb-main\\src\\BlazorShared\\Models\\PagedCatalogItemResponse.cs"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "715CF7AF-A1EE-40A6-94A0-8DA3F3B2CAE9.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.projectKey",
+      "value": "-2:0F576306-7E2D-49B7-87B1-EB5D94CFD5FC"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.projectName",
+      "value": "IntegrationTests"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\tests\\IntegrationTests"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.tests",
+      "value": "D:\\eShopOnWeb-main\\tests\\IntegrationTests\\obj\\IntegrationTests.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\obj\\project.assets.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\bundleconfig.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\IntegrationTests.deps.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\IntegrationTests.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\libman.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\UnitTests.deps.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\UnitTests.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\Web.deps.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\Web.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\Web.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\Web.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\obj\\Debug\\net8.0\\IntegrationTests.sourcelink.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\bin\\Debug\\net8.0\\BlazorDebugProxy\\BrowserDebugHost.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\Repositories\\BasketRepositoryTests\\SetQuantities.cs,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\Repositories\\OrderRepositoryTests\\GetById.cs,D:\\eShopOnWeb-main\\tests\\IntegrationTests\\Repositories\\OrderRepositoryTests\\GetByIdWithItemsAsync.cs"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\10"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\10\\Issues.json"
+    },
+    {
+      "key": "0F576306-7E2D-49B7-87B1-EB5D94CFD5FC.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\10\\Telemetry.json"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.projectKey",
+      "value": "-2:71368733-80A4-4869-B215-3A7001878577"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.projectName",
+      "value": "BlazorAdmin"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\BlazorAdmin"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod3"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\BlazorAdmin.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Properties\\launchSettings.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\appsettings.Development.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\appsettings.Docker.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\appsettings.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\admin.css,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\dotnet.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\dotnet.native.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\dotnet.runtime.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\emcc-props.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\blazor.boot.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\blazor.build.boot-extension.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\BlazorAdmin.sourcelink.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\rbcswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\rjimswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\staticwebassets.build.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\staticwebassets.development.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\bootstrap\\bootstrap.min.css,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\bin\\Debug\\net8.0\\wwwroot\\_framework\\emcc-props.json,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\CustomAuthStateProvider.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Helpers\\BlazorComponent.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Helpers\\BlazorLayoutComponent.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Helpers\\RefreshBroadcast.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Helpers\\ToastComponent.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\JavaScript\\Cookies.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\JavaScript\\Css.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\JavaScript\\JSInteropConstants.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\JavaScript\\Route.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\List.razor.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Program.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\ServicesConfiguration.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\CachedCatalogItemServiceDecorator.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\CachedCatalogLookupDataServiceDecorator .cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\CacheEntry.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\CatalogItemService.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\CatalogLookupDataService.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\HttpService.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Services\\ToastService.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\CustomInputSelect.cs,\"D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",D:\\eShopOnWeb-main\\src\\BlazorAdmin\\obj\\Debug\\net8.0\\BlazorAdmin.AssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\FONT-LICENSE,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\ICON-LICENSE,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\wwwroot\\css\\open-iconic\\README.md,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\App.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\Create.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\Delete.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\Details.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\Edit.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\CatalogItemPage\\List.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Pages\\Logout.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\MainLayout.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\NavMenu.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\RedirectToLogin.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\Spinner.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\Shared\\Toast.razor,D:\\eShopOnWeb-main\\src\\BlazorAdmin\\_Imports.razor"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "71368733-80A4-4869-B215-3A7001878577.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.projectKey",
+      "value": "-2:7FED7440-2311-4D1E-958B-3E887C585CD2"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.projectName",
+      "value": "ApplicationCore"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\ApplicationCore"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod4"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\ApplicationCore\\obj\\ApplicationCore.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\ApplicationCore\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\ApplicationCore\\bin\\Debug\\net8.0\\ApplicationCore.deps.json,D:\\eShopOnWeb-main\\src\\ApplicationCore\\obj\\Debug\\net8.0\\ApplicationCore.sourcelink.json,D:\\eShopOnWeb-main\\src\\ApplicationCore\\CatalogSettings.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Constants\\AuthorizationConstants.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\BaseEntity.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\BasketAggregate\\Basket.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\BasketAggregate\\BasketItem.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\BuyerAggregate\\Buyer.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\BuyerAggregate\\PaymentMethod.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\CatalogBrand.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\CatalogItem.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\CatalogType.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\OrderAggregate\\Address.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\OrderAggregate\\CatalogItemOrdered.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\OrderAggregate\\Order.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\OrderAggregate\\OrderItem.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Exceptions\\BasketNotFoundException.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Exceptions\\DuplicateException.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Exceptions\\EmptyBasketOnCheckoutException.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Extensions\\GuardExtensions.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Extensions\\JsonExtensions.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IAggregateRoot.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IAppLogger.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IBasketQueryService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IBasketService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IEmailSender.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IOrderService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IReadRepository.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IRepository.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\ITokenClaimsService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Interfaces\\IUriComposer.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Services\\BasketService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Services\\OrderService.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Services\\UriComposer.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\BasketWithItemsSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CatalogFilterPaginatedSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CatalogFilterSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CatalogItemNameSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CatalogItemsSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CustomerOrdersSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\CustomerOrdersWithItemsSpecification.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Specifications\\OrderWithItemsByIdSpec.cs,D:\\eShopOnWeb-main\\src\\ApplicationCore\\Entities\\EshopDiagram.cd"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\3"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\3\\Issues.json"
+    },
+    {
+      "key": "7FED7440-2311-4D1E-958B-3E887C585CD2.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\3\\Telemetry.json"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.projectKey",
+      "value": "-2:7C461394-ABDC-43CD-A798-71249C58BA67"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.projectName",
+      "value": "Infrastructure"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\Infrastructure"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod5"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\Infrastructure\\obj\\Infrastructure.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\Infrastructure\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\Infrastructure\\bin\\Debug\\net8.0\\Infrastructure.deps.json,D:\\eShopOnWeb-main\\src\\Infrastructure\\obj\\Debug\\net8.0\\Infrastructure.sourcelink.json,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\CatalogContext.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\CatalogContextSeed.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\BasketConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\BasketItemConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\CatalogBrandConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\CatalogItemConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\CatalogTypeConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\OrderConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Config\\OrderItemConfiguration.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\EfRepository.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\FileItem.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20201202111507_InitialModel.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20201202111507_InitialModel.Designer.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20211026175614_FixBuyerId.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20211026175614_FixBuyerId.Designer.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20211231093753_FixShipToAddress.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\20211231093753_FixShipToAddress.Designer.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Migrations\\CatalogContextModelSnapshot.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Data\\Queries\\BasketQueryService.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Dependencies.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\AppIdentityDbContext.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\AppIdentityDbContextSeed.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\ApplicationUser.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\IdentityTokenClaimService.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\Migrations\\20201202111612_InitialIdentityModel.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\Migrations\\20201202111612_InitialIdentityModel.Designer.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\Migrations\\AppIdentityDbContextModelSnapshot.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Identity\\UserNotFoundException.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Logging\\LoggerAdapter.cs,D:\\eShopOnWeb-main\\src\\Infrastructure\\Services\\EmailSender.cs"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\4"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\4\\Issues.json"
+    },
+    {
+      "key": "7C461394-ABDC-43CD-A798-71249C58BA67.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\4\\Telemetry.json"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.projectKey",
+      "value": "-2:B5E4F33C-4667-4A55-AF6A-740F84C4CF3A"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.projectName",
+      "value": "PublicApi"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\PublicApi"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod6"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\PublicApi\\appsettings.Development.json,D:\\eShopOnWeb-main\\src\\PublicApi\\appsettings.Docker.json,D:\\eShopOnWeb-main\\src\\PublicApi\\appsettings.json,D:\\eShopOnWeb-main\\src\\PublicApi\\Dockerfile,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\PublicApi.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\PublicApi\\Properties\\launchSettings.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\PublicApi.deps.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\PublicApi.runtimeconfig.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\src\\PublicApi\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\PublicApi.sourcelink.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\staticwebassets.build.json,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\staticwebassets.development.json,D:\\eShopOnWeb-main\\src\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.AuthenticateRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.AuthenticateResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.ClaimValue.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.UserInfo.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\BaseMessage.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\BaseRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\BaseResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogBrandEndpoints\\CatalogBrandDto.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogBrandEndpoints\\CatalogBrandListEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogBrandEndpoints\\CatalogBrandListEndpoint.ListCatalogBrandsResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemDto.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemGetByIdEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemGetByIdEndpoint.GetByIdCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemGetByIdEndpoint.GetByIdCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemListPagedEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemListPagedEndpoint.ListPagedCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CatalogItemListPagedEndpoint.ListPagedCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CreateCatalogItemEndpoint.CreateCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CreateCatalogItemEndpoint.CreateCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\CreateCatalogItemEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\DeleteCatalogItemEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\DeleteCatalogItemEndpoint.DeleteCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\DeleteCatalogItemEndpoint.DeleteCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\UpdateCatalogItemEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\UpdateCatalogItemEndpoint.UpdateCatalogItemRequest.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogItemEndpoints\\UpdateCatalogItemEndpoint.UpdateCatalogItemResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogTypeEndpoints\\CatalogTypeDto.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogTypeEndpoints\\CatalogTypeListEndpoint.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CatalogTypeEndpoints\\CatalogTypeListEndpoint.ListCatalogTypesResponse.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\CustomSchemaFilters.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\ImageValidators.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\MappingProfile.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\Middleware\\ExceptionMiddleware.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\Program.cs,\"D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\PublicApi.AssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\obj\\Debug\\net8.0\\PublicApi.MvcApplicationPartsAssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\PublicApi\\README.md"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\5"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\5\\Issues.json"
+    },
+    {
+      "key": "B5E4F33C-4667-4A55-AF6A-740F84C4CF3A.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\5\\Telemetry.json"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.projectKey",
+      "value": "-2:227CF035-29B0-448D-97E4-944F9EA850E5"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.projectName",
+      "value": "Web"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\src\\Web"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod7"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.sources",
+      "value": "D:\\eShopOnWeb-main\\src\\Web\\appsettings.Development.json,D:\\eShopOnWeb-main\\src\\Web\\appsettings.Docker.json,D:\\eShopOnWeb-main\\src\\Web\\appsettings.json,D:\\eShopOnWeb-main\\src\\Web\\bundleconfig.json,D:\\eShopOnWeb-main\\src\\Web\\compilerconfig.json,D:\\eShopOnWeb-main\\src\\Web\\Dockerfile,D:\\eShopOnWeb-main\\src\\Web\\libman.json,D:\\eShopOnWeb-main\\src\\Web\\.config\\dotnet-tools.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\project.assets.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Web.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Error.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Index.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Privacy.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\_ViewImports.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\_ViewStart.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Properties\\launchSettings.json,D:\\eShopOnWeb-main\\src\\Web\\Views\\_ViewImports.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\_ViewStart.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Admin\\EditCatalogItem.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Admin\\Index.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Checkout.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Index.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Success.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Shared\\_editCatalog.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Shared\\_pagination.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Shared\\_product.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Account\\Lockout.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Account\\LoginWith2fa.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\ChangePassword.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\Disable2fa.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\EnableAuthenticator.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\ExternalLogins.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\GenerateRecoveryCodes.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\MyAccount.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\ResetAuthenticator.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\SetPassword.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\ShowRecoverCodes.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\TwoFactorAuthentication.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\_Layout.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\_ManageNav.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\_StatusMessage.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\_ViewImports.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Order\\Detail.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Order\\MyOrders.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\Error.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\_CookieConsentPartial.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\_Layout.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\_LoginPartial.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\app.component.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\app.component.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\app.component.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\app.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\app.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\site.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\_variables.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\_variables.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\_variables.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\js\\site.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\js\\site.min.js,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\bundleconfig.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\libman.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\Web.deps.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\Web.runtimeconfig.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\Web.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\Web.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\ApiEndpoints.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\rjimswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\staticwebassets.build.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\staticwebassets.development.json,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\Web.sourcelink.json,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket.component.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket.component.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket.component.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\catalog\\catalog.component.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\catalog\\catalog.component.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\catalog\\catalog.component.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\catalog\\pager.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\orders\\orders.component.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\orders\\orders.component.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\orders\\orders.component.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.min.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.slim.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.slim.min.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery-validate\\jquery.validate.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\toastr\\toastr.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\toastr\\toastr.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\toastr\\toastr.min.js,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml,D:\\eShopOnWeb-main\\src\\Web\\bin\\Debug\\net8.0\\BlazorDebugProxy\\BrowserDebugHost.runtimeconfig.json,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Shared\\Components\\BasketComponent\\Default.cshtml,D:\\eShopOnWeb-main\\src\\Web\\Views\\Shared\\Components\\Basket\\Default.cshtml,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket-status\\basket-status.component.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket-status\\basket-status.component.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\basket\\basket-status\\basket-status.component.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\header\\header.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\header\\header.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\header\\header.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\identity\\identity.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\identity\\identity.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\identity\\identity.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\pager\\pager.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\pager\\pager.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\css\\shared\\components\\pager\\pager.scss,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\@aspnet\\signalr\\dist\\browser\\signalr.js,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\@aspnet\\signalr\\dist\\browser\\signalr.min.js,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\IdentityHostingStartup.cs,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Configuration\\ConfigureCookieSettings.cs,D:\\eShopOnWeb-main\\src\\Web\\Configuration\\ConfigureCoreServices.cs,D:\\eShopOnWeb-main\\src\\Web\\Configuration\\ConfigureWebServices.cs,D:\\eShopOnWeb-main\\src\\Web\\Configuration\\RevokeAuthenticationEvents.cs,D:\\eShopOnWeb-main\\src\\Web\\Constants.cs,D:\\eShopOnWeb-main\\src\\Web\\Controllers\\Api\\BaseApiController.cs,D:\\eShopOnWeb-main\\src\\Web\\Controllers\\ManageController.cs,D:\\eShopOnWeb-main\\src\\Web\\Controllers\\OrderController.cs,D:\\eShopOnWeb-main\\src\\Web\\Controllers\\UserController.cs,D:\\eShopOnWeb-main\\src\\Web\\Extensions\\CacheHelpers.cs,D:\\eShopOnWeb-main\\src\\Web\\Extensions\\EmailSenderExtensions.cs,D:\\eShopOnWeb-main\\src\\Web\\Extensions\\UrlHelperExtensions.cs,D:\\eShopOnWeb-main\\src\\Web\\Features\\MyOrders\\GetMyOrders.cs,D:\\eShopOnWeb-main\\src\\Web\\Features\\MyOrders\\GetMyOrdersHandler.cs,D:\\eShopOnWeb-main\\src\\Web\\Features\\OrderDetails\\GetOrderDetails.cs,D:\\eShopOnWeb-main\\src\\Web\\Features\\OrderDetails\\GetOrderDetailsHandler.cs,D:\\eShopOnWeb-main\\src\\Web\\HealthChecks\\ApiHealthCheck.cs,D:\\eShopOnWeb-main\\src\\Web\\HealthChecks\\HomePageHealthCheck.cs,D:\\eShopOnWeb-main\\src\\Web\\Interfaces\\IBasketViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Interfaces\\ICatalogItemViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Interfaces\\ICatalogViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Admin\\EditCatalogItem.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Admin\\Index.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\BasketItemViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\BasketViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Checkout.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Index.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Basket\\Success.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Error.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Index.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Privacy.cshtml.cs,D:\\eShopOnWeb-main\\src\\Web\\Pages\\Shared\\Components\\BasketComponent\\Basket.cs,D:\\eShopOnWeb-main\\src\\Web\\Program.cs,D:\\eShopOnWeb-main\\src\\Web\\Services\\BasketViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Services\\CachedCatalogViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Services\\CatalogItemViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\Services\\CatalogViewModelService.cs,D:\\eShopOnWeb-main\\src\\Web\\SlugifyParameterTransformer.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Account\\LoginViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Account\\LoginWith2faViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Account\\RegisterViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Account\\ResetPasswordViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\BasketComponentViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\CatalogIndexViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\CatalogItemViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\File\\FileViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\ChangePasswordViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\EnableAuthenticatorViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\ExternalLoginsViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\IndexViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\RemoveLoginViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\SetPasswordViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\ShowRecoveryCodesViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\Manage\\TwoFactorAuthenticationViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\OrderDetailViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\OrderItemViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\OrderViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\ViewModels\\PaginationInfoViewModel.cs,D:\\eShopOnWeb-main\\src\\Web\\Views\\Manage\\ManageNavPages.cs,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\Web.GlobalUsings.g.cs,\"D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\Web.AssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\Web.MvcApplicationPartsAssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\Web\\obj\\Debug\\net8.0\\Web.RazorAssemblyInfo.cs,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\favicon.ico,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Bold.eot,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Bold.svg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Bold.ttf,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Bold.woff,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Bold.woff2,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Regular.eot,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Regular.svg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Regular.ttf,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Regular.woff,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\fonts\\Montserrat-Regular.woff2,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\arrow-down.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\arrow-right.svg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\brand.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\cart.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\logout.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\main_banner.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\main_banner_text.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\main_banner_text.svg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\my_orders.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\1.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\10.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\11.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\12.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\2.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\3.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\4.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\5.jpg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\5.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\6.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\7.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\8.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\9.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\products\\eCatalog-item-default.png,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\images\\refresh.svg,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.min.map,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\jquery\\jquery.slim.min.map,D:\\eShopOnWeb-main\\src\\Web\\wwwroot\\lib\\toastr\\toastr.js.map,D:\\eShopOnWeb-main\\src\\Web\\compilerconfig.json.defaults,D:\\eShopOnWeb-main\\src\\Web\\key-768c1632-cf7b-41a9-bb7a-bff228ae8fba.xml"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\6"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\6\\Issues.json"
+    },
+    {
+      "key": "227CF035-29B0-448D-97E4-944F9EA850E5.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\6\\Telemetry.json"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.projectKey",
+      "value": "-2:EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.projectName",
+      "value": "UnitTests"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\tests\\UnitTests"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod8"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.tests",
+      "value": "D:\\eShopOnWeb-main\\tests\\UnitTests\\obj\\project.assets.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\obj\\UnitTests.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\bundleconfig.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\libman.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\UnitTests.deps.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\UnitTests.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\Web.deps.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\Web.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\Web.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\Web.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\obj\\Debug\\net8.0\\UnitTests.sourcelink.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\bin\\Debug\\net8.0\\BlazorDebugProxy\\BrowserDebugHost.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Entities\\BasketTests\\BasketAddItem.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Entities\\BasketTests\\BasketRemoveEmptyItems.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Entities\\BasketTests\\BasketTotalItems.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Entities\\OrderTests\\OrderTotal.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Extensions\\JsonExtensions.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Extensions\\TestChild.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Extensions\\TestParent.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Services\\BasketServiceTests\\AddItemToBasket.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Services\\BasketServiceTests\\DeleteBasket.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Services\\BasketServiceTests\\TransferBasket.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Specifications\\BasketWithItemsSpecification.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Specifications\\CatalogFilterPaginatedSpecification.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Specifications\\CatalogFilterSpecification.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Specifications\\CatalogItemsSpecification.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\ApplicationCore\\Specifications\\CustomerOrdersWithItemsSpecification.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Builders\\AddressBuilder.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Builders\\BasketBuilder.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Builders\\OrderBuilder.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\MediatorHandlers\\OrdersTests\\GetMyOrders.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\MediatorHandlers\\OrdersTests\\GetOrderDetails.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Web\\Extensions\\CacheHelpersTests\\GenerateBrandsCacheKey.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Web\\Extensions\\CacheHelpersTests\\GenerateCatalogItemCacheKey.cs,D:\\eShopOnWeb-main\\tests\\UnitTests\\Web\\Extensions\\CacheHelpersTests\\GenerateTypesCacheKey.cs"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\7"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\7\\Issues.json"
+    },
+    {
+      "key": "EF6877E6-59CB-43A7-8C2C-E70DD70CC5B6.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\7\\Telemetry.json"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.projectKey",
+      "value": "-2:7EFB5482-F942-4C3D-94B0-9B70596E6D0A"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.projectName",
+      "value": "FunctionalTests"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\tests\\FunctionalTests"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod9"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.tests",
+      "value": "D:\\eShopOnWeb-main\\tests\\FunctionalTests\\obj\\FunctionalTests.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\obj\\project.assets.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\ApplicationCore.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\BlazorShared.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\bundleconfig.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\FunctionalTests.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\FunctionalTests.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\Infrastructure.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\libman.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\PublicApi.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\PublicApi.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\Web.deps.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\Web.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\Web.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\Web.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\obj\\Debug\\net8.0\\FunctionalTests.sourcelink.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\obj\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\bin\\Debug\\net8.0\\BlazorDebugProxy\\BrowserDebugHost.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\PublicApi\\ApiTestFixture.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\PublicApi\\ApiTokenHelper.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\PublicApi\\AuthEndpoints\\AuthenticateEndpoint.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Controllers\\AccountControllerSignIn.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Controllers\\CatalogControllerIndex.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Controllers\\OrderControllerIndex.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Pages\\Basket\\BasketPageCheckout.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Pages\\Basket\\CheckoutTest.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Pages\\Basket\\IndexTest.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\Pages\\HomePageOnGet.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\WebPageHelpers.cs,D:\\eShopOnWeb-main\\tests\\FunctionalTests\\Web\\WebTestFixture.cs"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\8"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\8\\Issues.json"
+    },
+    {
+      "key": "7EFB5482-F942-4C3D-94B0-9B70596E6D0A.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\8\\Telemetry.json"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.projectKey",
+      "value": "-2:D53EF010-8F8C-4337-A059-456E19D8AE63"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.projectName",
+      "value": "PublicApiIntegrationTests"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.projectBaseDir",
+      "value": "D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.working.directory",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\.sonar\\mod10"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.tests",
+      "value": "D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\appsettings.test.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\obj\\project.assets.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\obj\\PublicApiIntegrationTests.csproj.nuget.dgspec.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\ApplicationCore.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\appsettings.Docker.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\appsettings.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\appsettings.test.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\BlazorAdmin.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\BlazorShared.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\bundleconfig.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\Infrastructure.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\libman.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApi.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApi.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApi.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApiIntegrationTests.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\PublicApiIntegrationTests.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\Web.deps.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\Web.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\Web.staticwebassets.endpoints.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\Web.staticwebassets.runtime.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\obj\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\obj\\Debug\\net8.0\\PublicApiIntegrationTests.sourcelink.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\bin\\Debug\\net8.0\\BlazorDebugProxy\\BrowserDebugHost.runtimeconfig.json,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\ApiTokenHelper.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\AuthEndpoints\\AuthenticateEndpointTest.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\CatalogItemEndpoints\\CatalogItemGetByIdEndpointTest.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\CatalogItemEndpoints\\CatalogItemListPagedEndpoint.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\CatalogItemEndpoints\\CreateCatalogItemEndpointTest.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\CatalogItemEndpoints\\DeleteCatalogItemEndpointTest.cs,D:\\eShopOnWeb-main\\tests\\PublicApiIntegrationTests\\ProgramTest.cs"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\9"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\9\\Issues.json"
+    },
+    {
+      "key": "D53EF010-8F8C-4337-A059-456E19D8AE63.sonar.cs.scanner.telemetry",
+      "value": "D:\\eShopOnWeb-main\\.sonarqube\\out\\9\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

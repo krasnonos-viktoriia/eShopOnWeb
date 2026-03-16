@@ -26,6 +26,8 @@ public class LogoutModel : PageModel
 
     public void OnGet()
     {
+        // GET запит на сторінку виходу: зазвичай просто повертає сторінку з підтвердженням.
+        // Сам вихід відбувається через POST (метод OnPost).
     }
 
     public async Task<IActionResult> OnPost(string? returnUrl = null)

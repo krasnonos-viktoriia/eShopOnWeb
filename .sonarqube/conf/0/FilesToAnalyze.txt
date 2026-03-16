@@ -1,0 +1,3 @@
+﻿D:\eShopOnWeb-main\docker-compose.override.yml
+D:\eShopOnWeb-main\docker-compose.yml
+D:\eShopOnWeb-main\.dockerignore

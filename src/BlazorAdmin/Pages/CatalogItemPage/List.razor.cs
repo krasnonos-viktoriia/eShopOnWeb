@@ -40,7 +40,7 @@ public partial class List : BlazorComponent
         await base.OnAfterRenderAsync(firstRender);
     }
 
-    private async void DetailsClick(int id)
+    private async Task DetailsClick(int id)
     {
         await DetailsComponent.Open(id);
     }
