@@ -1,12 +1,11 @@
 using System;
 using System.Security.Cryptography;
 using System.Text;
+using System.Collections.Generic;
 
 namespace SonarNet.Infrastructure.Services
 {
-    /// <summary>
     /// Базовий клас для аутентифікації користувачів.
-    /// </summary>
     public class UserAuth
     {
         // Приклад зберігання користувачів у пам'яті (у реальному проєкті замініть на базу даних)
@@ -22,10 +21,7 @@ namespace SonarNet.Infrastructure.Services
             };
         }
 
-        /// <summary>
         /// Перевіряє пару логін/пароль.
-        /// </summary>
-        /// <returns>true, якщо аутентифікація успішна</returns>
         public bool Authenticate(string username, string password)
         {
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
@@ -39,9 +35,7 @@ namespace SonarNet.Infrastructure.Services
             return false;
         }
 
-        /// <summary>
         /// Повертає роль користувача після успішної аутентифікації.
-        /// </summary>
         public string GetUserRole(string username)
         {
             return _users.TryGetValue(username, out var user) ? user.Role : null;
