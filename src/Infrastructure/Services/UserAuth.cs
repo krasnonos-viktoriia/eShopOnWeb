@@ -4,7 +4,6 @@ using System.Text;
 
 namespace SonarNet.Infrastructure.Services
 {
-    // Базовий клас для аутентифікації користувачів.
     public class UserAuth
     {
         // Приклад зберігання користувачів у пам'яті (у реальному проєкті замініть на базу даних)
@@ -21,7 +20,6 @@ namespace SonarNet.Infrastructure.Services
         }
 
         // Перевіряє пару логін/пароль.
-        // <returns>true, якщо аутентифікація успішна</returns>
         public bool Authenticate(string username, string password)
         {
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
@@ -41,7 +39,6 @@ namespace SonarNet.Infrastructure.Services
             return _users.TryGetValue(username, out var user) ? user.Role : null;
         }
 
-        // ---- Хешування паролів (для прикладу) ----
         private static string HashPassword(string password)
         {
             using var sha256 = SHA256.Create();
