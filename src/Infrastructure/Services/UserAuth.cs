@@ -5,15 +5,12 @@ using System.Collections.Generic;
 
 namespace SonarNet.Infrastructure.Services
 {
-    /// Базовий клас для аутентифікації користувачів.
     public class UserAuth
     {
-        // Приклад зберігання користувачів у пам'яті (у реальному проєкті замініть на базу даних)
         private readonly Dictionary<string, (string PasswordHash, string Role)> _users;
 
         public UserAuth()
         {
-            // Ініціалізація тестових користувачів (пароль "password" захешовано)
             _users = new Dictionary<string, (string, string)>
             {
                 ["admin"] = (HashPassword("admin123"), "Administrator"),
@@ -21,7 +18,6 @@ namespace SonarNet.Infrastructure.Services
             };
         }
 
-        /// Перевіряє пару логін/пароль.
         public bool Authenticate(string username, string password)
         {
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
@@ -35,13 +31,11 @@ namespace SonarNet.Infrastructure.Services
             return false;
         }
 
-        /// Повертає роль користувача після успішної аутентифікації.
         public string GetUserRole(string username)
         {
             return _users.TryGetValue(username, out var user) ? user.Role : null;
         }
 
-        // ---- Хешування паролів (для прикладу) ----
         private static string HashPassword(string password)
         {
             using var sha256 = SHA256.Create();
